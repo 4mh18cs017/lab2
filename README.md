@@ -1,1 +1,1 @@
-# lab2
+candidate elimination
